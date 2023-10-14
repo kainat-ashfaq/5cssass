@@ -1,0 +1,58 @@
+.main {
+}
+.div1 {
+  border: 2px solid black;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 15px;
+  margin: 5px;
+}
+.div2 {
+  border: 2px solid black;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 15px;
+  margin: 5px;
+}
+.third {
+  display: flex;
+}
+.div3 {
+  border: 2px solid black;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 25%;
+  margin: 4px;
+  text-align: center;
+  height: 350px;
+  padding-top: 100px;
+  box-sizing: border-box;
+}
+.div4 {
+  border: 2px solid black;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 50%;
+  margin: 4px;
+  text-align: center;
+  padding-top: 100px;
+}
+.div5 {
+  border: 2px solid black;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 25%;
+  margin: 4px;
+  text-align: center;
+  padding-top: 100px;
+}
+.div6 {
+  border: 2px solid black;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 15px;
+  margin: 5px;
+}
